@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+      {
+        "source": {
+          "id": "al-jazeera-english",
+          "name": "Al Jazeera English"
+        },
+        "author": "Manasi Pathak",
+        "title": "Fans frustrated over ‘very shoddy’ Cricket World Cup ticketing process",
+        "description": "Amid the hype for the upcoming World Cup in India, fans complain of exorbitant prices and a chaotic ticket system.",
+        "url": "http://www.aljazeera.com/sports/2023/10/2/fans-frustrated-icc-cricket-world-cup-2023-tickets-india",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/10/AP23251571571378-1696234538.jpg?resize=1920%2C1440",
+        "publishedAt": "2023-10-02T09:07:56Z",
+        "content": "Mumbai, India Attending a World Cup is on the wish list of every cricket fan. The opportunity comes once every four years, the wait is long and arduous, it might be expensive but in the end, its wort… [+7003 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-sport",
+          "name": "BBC Sport"
+        },
+        "author": null,
+        "title": "How much do you remember from the 2019 Cricket World Cup?",
+        "description": "The 2023 Cricket World Cup in India begins this week, but how much do you remember from the 2019 tournament in England?",
+        "url": "http://www.bbc.co.uk/sport/cricket/66853907",
+        "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/10F59/production/_131256496_bbc-quiz-2019.jpg",
+        "publishedAt": "2023-10-02T07:37:17.9335673Z",
+        "content": "England celebrate winning the 2019 Cricket World Cup\r\n<table><tr><th>ICC Men's Cricket World Cup</th></tr>\r\n<tr><td>Host country: India Dates: 5 October - 19 November</td></tr><tr><td>Coverage: Test … [+733 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-sport",
+          "name": "BBC Sport"
+        },
+        "author": null,
+        "title": "BBC names 2023 Green Sport Award winners",
+        "description": "BBC Sport names its 2023 Green Sport Award winners - including Australia men's cricket captain Pat Cummins and League Two football club Forest Green Rovers.",
+        "url": "http://www.bbc.co.uk/sport/66845486",
+        "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/87C6/production/_131285743_eaf0a6b8-9d8b-4235-b97b-059b8ffb60d7.jpg",
+        "publishedAt": "2023-10-02T05:52:17.3715106Z",
+        "content": "Australia cricket captain Pat Cummins and British athlete Innes FitzGerald are among the winners of this year's BBC Green Sport awards.\r\nNow in their second year, the awards celebrate the athletes, f… [+7579 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+        "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+        "publishedAt": "2020-04-27T11:41:47Z",
+        "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+        "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+        "publishedAt": "2020-03-30T15:26:05Z",
+        "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+      }
+    ]
+  }
