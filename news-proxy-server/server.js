@@ -1,5 +1,3 @@
-import https from "https";
-import fs from "fs";
 import express from "express";
 import fetch from "node-fetch";
 import cors from "cors";
@@ -24,11 +22,6 @@ app.get("/news", async (req, res) => {
   }
 });
 
-const httpsOptions = {
-  key: fs.readFileSync("server.key"),
-  cert: fs.readFileSync("server.cert"),
-};
-
-https.createServer(httpsOptions, app).listen(PORT, () => {
-  console.log(`Server running on https://localhost:${PORT}`);
+app.listen(PORT, () => {
+  console.log(`Server running on http://localhost:${PORT}`);
 });
