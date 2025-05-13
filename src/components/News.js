@@ -33,7 +33,7 @@ const News = (props) => {
 
   const fetchMoreData = async () => {
     
-    const url = `http://192.168.0.100:5000/news?country=${props.country}&category=${props.category}&page=${page}&pageSize=${props.pageSize}`;
+    const url = `https://newsmonkey4.onrender.com//news?country=${props.country}&category=${props.category}&page=${page}&pageSize=${props.pageSize}`;
     setpage(page + 1);
     let data = await fetch(url);
     let parsedData = await data.json();
