@@ -7,7 +7,7 @@ const PORT = 5000;
 
 app.use(cors()); // Enable CORS
 
-const NEWS_API_KEY = "bdbeee8953974a9191752e447489eed0";
+const NEWS_API_KEY = "672ec8f404774ace8d4976c0b9e2bb43";
 
 app.get("/news", async (req, res) => {
   const { country, category, page, pageSize } = req.query;
