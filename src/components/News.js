@@ -14,7 +14,7 @@ const News = (props) => {
   // document.title = `${this.Capitalize(this.props.category)}-NewsMonkey`;
   const updateNews = async () => {
     props.setProgress(10);
-    const url = `https://newsmonkey-2jis.onrender.com/news?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`;
+    const url = `https://newsmonkey-2jis.onrender.com/news?country=${props.country}&category=${props.category}&page=${page}&pageSize=${props.pageSize}`;
     setloading(true);
     let data = await fetch(url);
     props.setProgress(30);
