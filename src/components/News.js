@@ -14,7 +14,7 @@ const News = (props) => {
   // document.title = `${this.Capitalize(this.props.category)}-NewsMonkey`;
   const updateNews = async () => {
     props.setProgress(10);
-    const url = `https://news-monkey-pztu.vercel.app/news?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`;
+    const url = `https://newsmonkey-2jis.onrender.com/news?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`;
     setloading(true);
     let data = await fetch(url);
     props.setProgress(30);
@@ -33,7 +33,7 @@ const News = (props) => {
 
   const fetchMoreData = async () => {
     
-    const url = `https://news-monkey-pztu.vercel.app/news?country=${props.country}&category=${props.category}&page=${page}&pageSize=${props.pageSize}`;
+    const url = `https://newsmonkey-2jis.onrender.com/news?country=${props.country}&category=${props.category}&page=${page}&pageSize=${props.pageSize}`;
     setpage(page + 1);
     let data = await fetch(url);
     let parsedData = await data.json();
