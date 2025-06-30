@@ -6,7 +6,7 @@ const app = express();
 const PORT = 5000;
 
 app.use(cors({
-  origin: ['https://news-monkey-amber-chi.vercel.app']
+  origin: ['https://newsmonkey-1-9xhm.onrender.com']
 }));
  // Enable CORS
 
