@@ -5,7 +5,10 @@ import cors from "cors";
 const app = express();
 const PORT = 5000;
 
-app.use(cors()); // Enable CORS
+app.use(cors({
+  origin: ['https://news-monkey-amber-chi.vercel.app']
+}));
+ // Enable CORS
 
 const NEWS_API_KEY = "672ec8f404774ace8d4976c0b9e2bb43";
 
