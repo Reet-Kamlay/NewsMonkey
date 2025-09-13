@@ -2,7 +2,6 @@
 
 **NewsMonkey** is a modern React-based web application that delivers up-to-date news articles from various categories using the [NewsAPI](https://newsapi.org). It features infinite scrolling, category-wise navigation, loading indicators, and a clean UI — designed to offer users a seamless reading experience.
 
-
 ## ⚙️ Features
 
 - 🧠 News from multiple categories: General, Business, Entertainment, Health, Science, Sports, Technology
@@ -18,6 +17,10 @@
 - **Bootstrap 5**
 - **NewsAPI**
 - **Vercel** for deployment
+
+## Architecture Diagram
+
+![Architecture Diagram](public/screenshot-for-readme.png)
 
 ## 📁 Folder Structure (Simplified)
 
